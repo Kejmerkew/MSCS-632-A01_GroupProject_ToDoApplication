@@ -9,16 +9,6 @@ This was developed as part of an **Advanced Programming Languages** course proje
 
 ---
 
-## Features
-
-- Add, remove, and complete tasks
-- Assign tasks to different users
-- Categorize tasks (e.g., Work, Personal)
-- Persistent data storage in `db.json`
-- CLI-based interface using **Inquirer.js**
-
----
-
 ## JavaScript
 ## *************************************************************************************************
 ## Features
@@ -98,6 +88,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
