@@ -1,16 +1,13 @@
 # MSCS-632-A01_ToDoApplication
 
 # 📝 Collaborative To-Do List Application (CLI)
-
-This project is a **command-line collaborative To-Do list application** built with **Node.js**.  
-It supports multiple users, task assignment, categories, and demonstrates **concurrency control** using asynchronous JavaScript (`async/await`) with JSON-based persistence.
-
 This was developed as part of an **Advanced Programming Languages** course project.
-
 ---
 
 ## *************************************************************************************************
 ## JavaScript
+This project is a **command-line collaborative To-Do list application** built with **Node.js**.  
+It supports multiple users, task assignment, categories, and demonstrates **concurrency control** using asynchronous JavaScript (`async/await`) with JSON-based persistence.
 ## Features
 - Add, remove, and complete tasks
 - Assign tasks to different users
@@ -40,6 +37,7 @@ node index.js
 
 ## *************************************************************************************************
 ## Java
+A Java-based Collaborative To-Do List application that allows multiple users to add, remove, and manage tasks concurrently. Tasks are categorized and can be marked as complete or pending. The project demonstrates object-oriented design, concurrency, and JSON persistence.
 ## Features
 - Multiple users with individual task lists
 - Add, remove, and mark tasks as complete/incomplete
@@ -88,6 +86,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
