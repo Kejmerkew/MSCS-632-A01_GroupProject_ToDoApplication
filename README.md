@@ -1,4 +1,5 @@
 # MSCS-632-A01_ToDoApplication
+Authors: Ronit Pawar, Vishnu Mallam
 
 # 📝 Collaborative To-Do List Application (CLI)
 This was developed as part of an **Advanced Programming Languages** course project.
@@ -86,6 +87,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
