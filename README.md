@@ -9,8 +9,8 @@ This was developed as part of an **Advanced Programming Languages** course proje
 
 ---
 
-## JavaScript
 ## *************************************************************************************************
+## JavaScript
 ## Features
 - Add, remove, and complete tasks
 - Assign tasks to different users
@@ -38,8 +38,8 @@ npm install
 node index.js
 ```
 
-## Java
 ## *************************************************************************************************
+## Java
 ## Features
 - Multiple users with individual task lists
 - Add, remove, and mark tasks as complete/incomplete
@@ -88,6 +88,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
