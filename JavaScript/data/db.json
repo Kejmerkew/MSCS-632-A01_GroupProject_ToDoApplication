@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ronit Pawar"
+    },
+    {
+      "id": 1757641780272,
+      "name": "Jay Thom"
+    },
+    {
+      "id": 1757641792233,
+      "name": "Vishnu Mallam"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1757641663342,
+      "title": "Go for run",
+      "category": "Excercise",
+      "assignedTo": 1,
+      "status": "PENDING"
+    },
+    {
+      "id": 1757641814748,
+      "title": "Complete Assignment",
+      "category": "School Work",
+      "assignedTo": 1757641792233,
+      "status": "PENDING"
+    },
+    {
+      "id": 1757641831474,
+      "title": "Grade Assignments",
+      "category": "School Work",
+      "assignedTo": 1757641780272,
+      "status": "PENDING"
+    }
+  ]
+}
