@@ -18,14 +18,14 @@ This was developed as part of an **Advanced Programming Languages** course proje
 - CLI-based interface using **Inquirer.js**
 
 ---
-
-## ⚙️ Setup Instructions
+## *********************************************************************************************************************************
+## ⚙️ Setup Instructions For JavaScript Program
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/collab-todo.git
-cd collab-todo
+git clone git@github.com:Kejmerkew/MSCS-632-A01_GroupProject_ToDoApplication.git
+cd JavaScript
 ```
 ### 2. Install Dependencies
 
@@ -37,6 +37,47 @@ npm install
 ```bash
 node index.js
 ```
+## *********************************************************************************************************************************
+## ⚙️ Setup Instructions For Java Program
+
+### 1. Clone the Repository
+
+```bash
+git clone git@github.com:Kejmerkew/MSCS-632-A01_GroupProject_ToDoApplication.git
+cd Java
+```
+### 2. Ensure Java 17+ and Maven are installed:
+
+```bash
+java -version
+mvn -version
+```
+
+### 3. Build the project:
+```bash
+mvn clean compile
+```
+
+### 4. Run the application (CLI):
+```bash
+mvn exec:java
+```
+
+### 5. (To Run Concurrency Demo)
+Edit this part of pom.xml from this:
+```bash
+<configuration>
+    <mainClass>com.ucumberlands.todoapp.Main</mainClass>
+</configuration>
+```
+To this:
+```bash
+<configuration>
+    <mainClass>com.ucumberlands.todoapp.ConcurrentDemo</mainClass>
+</configuration>
+```
+Then re-compile and re-run.
+
 
 
 
