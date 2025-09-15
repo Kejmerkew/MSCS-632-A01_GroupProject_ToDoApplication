@@ -4,7 +4,7 @@
 This was developed as part of an **Advanced Programming Languages** course project.
 ---
 
-## *************************************************************************************************
+## *******************************************************************************
 ## JavaScript
 This project is a **command-line collaborative To-Do list application** built with **Node.js**.  
 It supports multiple users, task assignment, categories, and demonstrates **concurrency control** using asynchronous JavaScript (`async/await`) with JSON-based persistence.
@@ -35,7 +35,7 @@ npm install
 node index.js
 ```
 
-## *************************************************************************************************
+## *******************************************************************************
 ## Java
 A Java-based Collaborative To-Do List application that allows multiple users to add, remove, and manage tasks concurrently. Tasks are categorized and can be marked as complete or pending. The project demonstrates object-oriented design, concurrency, and JSON persistence.
 ## Features
@@ -86,6 +86,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
