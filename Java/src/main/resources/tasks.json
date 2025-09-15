@@ -1,0 +1,98 @@
+{
+  "ronit.pawar" : {
+    "username" : "ronit.pawar",
+    "tasks" : [ {
+      "title" : "Go to gym",
+      "category" : "Exercise",
+      "completed" : false
+    } ]
+  },
+  "vishnu.mallam" : {
+    "username" : "vishnu.mallam",
+    "tasks" : [ {
+      "title" : "Finish Assignment",
+      "category" : "School",
+      "completed" : true
+    } ]
+  },
+  "Bob" : {
+    "username" : "Bob",
+    "tasks" : [ {
+      "title" : "Bob Task 1",
+      "category" : "Personal",
+      "completed" : false
+    }, {
+      "title" : "Bob Task 2",
+      "category" : "Personal",
+      "completed" : false
+    }, {
+      "title" : "Bob Task 3",
+      "category" : "Personal",
+      "completed" : false
+    }, {
+      "title" : "Bob Task 4",
+      "category" : "Personal",
+      "completed" : false
+    }, {
+      "title" : "Bob Task 5",
+      "category" : "Personal",
+      "completed" : false
+    } ]
+  },
+  "Alice" : {
+    "username" : "Alice",
+    "tasks" : [ {
+      "title" : "Alice Task 1",
+      "category" : "Work",
+      "completed" : false
+    }, {
+      "title" : "Alice Task 2",
+      "category" : "Work",
+      "completed" : false
+    }, {
+      "title" : "Alice Task 3",
+      "category" : "Work",
+      "completed" : false
+    }, {
+      "title" : "Alice Task 4",
+      "category" : "Work",
+      "completed" : false
+    }, {
+      "title" : "Alice Task 5",
+      "category" : "Work",
+      "completed" : false
+    } ]
+  },
+  "Charlie" : {
+    "username" : "Charlie",
+    "tasks" : [ {
+      "title" : "Charlie Task 1",
+      "category" : "Hobby",
+      "completed" : false
+    }, {
+      "title" : "Charlie Task 2",
+      "category" : "Hobby",
+      "completed" : false
+    }, {
+      "title" : "Charlie Task 3",
+      "category" : "Hobby",
+      "completed" : false
+    }, {
+      "title" : "Charlie Task 4",
+      "category" : "Hobby",
+      "completed" : false
+    }, {
+      "title" : "Charlie Task 5",
+      "category" : "Hobby",
+      "completed" : false
+    } ]
+  },
+  "jay.thom" : {
+    "username" : "jay.thom",
+    "tasks" : [ {
+      "title" : "Grade Assignments",
+      "category" : "School",
+      "completed" : false
+    } ]
+  }
+}
