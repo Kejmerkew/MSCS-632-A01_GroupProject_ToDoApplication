@@ -18,7 +18,7 @@ This was developed as part of an **Advanced Programming Languages** course proje
 - CLI-based interface using **Inquirer.js**
 
 ---
-## *********************************************************************************************************************************
+## *************************************************************************************************
 ## ⚙️ Setup Instructions For JavaScript Program
 
 ### 1. Clone the Repository
@@ -37,7 +37,7 @@ npm install
 ```bash
 node index.js
 ```
-## *********************************************************************************************************************************
+## *************************************************************************************************
 ## ⚙️ Setup Instructions For Java Program
 
 ### 1. Clone the Repository
@@ -77,6 +77,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
