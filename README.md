@@ -18,7 +18,17 @@ This was developed as part of an **Advanced Programming Languages** course proje
 - CLI-based interface using **Inquirer.js**
 
 ---
+
+## JavaScript
 ## *************************************************************************************************
+## Features
+- Add, remove, and complete tasks
+- Assign tasks to different users
+- Categorize tasks (e.g., Work, Personal)
+- Persistent data storage in `db.json`
+- CLI-based interface using **Inquirer.js**
+---
+
 ## ⚙️ Setup Instructions For JavaScript Program
 
 ### 1. Clone the Repository
@@ -37,7 +47,18 @@ npm install
 ```bash
 node index.js
 ```
+
+## Java
 ## *************************************************************************************************
+## Features
+- Multiple users with individual task lists
+- Add, remove, and mark tasks as complete/incomplete
+- Task categorization (e.g., Work, Personal, Hobby)
+- Concurrency support using Java threads
+- Persistent storage in JSON format (tasks.json)
+- Command-line interface (CLI) for interaction
+---
+
 ## ⚙️ Setup Instructions For Java Program
 
 ### 1. Clone the Repository
@@ -77,6 +98,7 @@ To this:
 </configuration>
 ```
 Then re-compile and re-run.
+
 
 
 
